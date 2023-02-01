@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\SNAKE\\SNAKE\\SNAKE.csproj",
+      "projectUniqueName": "D:\\SNAKE\\SNAKE\\SNAKE.csproj",
       "projectName": "SNAKE",
-      "projectPath": "C:\\Users\\USER\\Documents\\SNAKE\\SNAKE\\SNAKE.csproj",
+      "projectPath": "D:\\SNAKE\\SNAKE\\SNAKE.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\SNAKE\\SNAKE\\obj\\",
+      "outputPath": "D:\\SNAKE\\SNAKE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
