@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\SNAKE.exe
+C:\Users\USER\Desktop\SNAKE.dll
+C:\Users\USER\Desktop\SNAKE.deps.json
+C:\Users\USER\Desktop\SNAKE.runtimeconfig.json
+C:\Users\USER\Desktop\SNAKE.pdb
+C:\Users\USER\Desktop\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

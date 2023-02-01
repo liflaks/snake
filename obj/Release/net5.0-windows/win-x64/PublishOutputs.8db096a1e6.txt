@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\EXE_SNAKE\SNAKE.pdb
+C:\Users\USER\Desktop\EXE_SNAKE\sni.dll
+C:\Users\USER\Desktop\EXE_SNAKE\SNAKE.exe

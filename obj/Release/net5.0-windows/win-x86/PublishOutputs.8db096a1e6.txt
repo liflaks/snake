@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\EXE_SNAKE\SNAKE.pdb
+C:\Users\USER\Desktop\EXE_SNAKE\clrcompression.dll
+C:\Users\USER\Desktop\EXE_SNAKE\clrjit.dll
+C:\Users\USER\Desktop\EXE_SNAKE\coreclr.dll
+C:\Users\USER\Desktop\EXE_SNAKE\mscordaccore.dll
+C:\Users\USER\Desktop\EXE_SNAKE\D3DCompiler_47_cor3.dll
+C:\Users\USER\Desktop\EXE_SNAKE\PenImc_cor3.dll
+C:\Users\USER\Desktop\EXE_SNAKE\PresentationNative_cor3.dll
+C:\Users\USER\Desktop\EXE_SNAKE\vcruntime140_cor3.dll
+C:\Users\USER\Desktop\EXE_SNAKE\wpfgfx_cor3.dll
+C:\Users\USER\Desktop\EXE_SNAKE\sni.dll
+C:\Users\USER\Desktop\EXE_SNAKE\SNAKE.exe
